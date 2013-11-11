@@ -1,0 +1,2 @@
+ErrorDocument 503 /err/lessig_mirror.foo
+ErrorDocument 404 /oscon/2002/lessig/index.html
