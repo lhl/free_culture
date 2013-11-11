@@ -26,8 +26,8 @@ I vaguely remember it being a terrible pain in the ass to do - a couple days/all
 I was able to find an old blog-post where I announced it: http://randomfoo.net/blog/id/1911 - In that 
 post you can see me trying to avoid getting my server /.'d.  Of course, it did end up getting linked to
 my server (although the submitter was kind enough to include a mirror link at least)
-http://news.slashdot.org/story/02/08/13/2150251/lessig--oscon (for those curious, my server held up pretty
-well, even serving out a lot of media files, although it did max out its 10Mbps link for a while).
+http://news.slashdot.org/story/02/08/13/2150251/lessig--oscon (for those curious, [my server held up pretty
+well](http://randomfoo.net/blog/id/1929), even serving out a lot of media files, although it did max out its 10Mbps link for a while).
 
 An ancillary anecode, this was actually also the only time I ended up exchanging emails with RMS. He 
 complained that I should only have been using Ogg Vorbis not MP3, and that I shouldn't have been using Flash 
