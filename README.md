@@ -32,7 +32,8 @@ An ancillary anecode, this was actually also the only time I ended up exchanging
 complained that I should only have been using Ogg Vorbis not MP3, and that I shouldn't have been using Flash 
 (I believe he proposed SMIL as an alternative).  I told him it was all CC licensed andhe was free to do the 
 conversions and good luck reaching the non-existant audience (or converting w/ non-existant SMIL tools).  
-He never took me up on that offer, although someone did eventually contribute an Ogg transcode.
+He never took me up on that offer, although someone did eventually contribute an Ogg transcode and an
+Open Office version.
 
 
 Licensing
