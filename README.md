@@ -23,10 +23,11 @@ relative numbers and it was pretty much immediately out of sync with the audio. 
 retiming most of it as well as writing a bespoke Flash-based presentation engine in early ActionScript.
 
 I vaguely remember it being a terrible pain in the ass to do - a couple days/allnighters over a weekend?
-I was able to find an old blog-post where I announced it: http://randomfoo.net/blog/id/1911 - Of course, 
-it did end up being linked to my server on /. - http://news.slashdot.org/story/02/08/13/2150251/lessig--oscon 
-but it actually held up pretty well (even back then I had a dedicated server, although it might have just
-been a 10Mbps link). I also set up some scripts for redistributing to mirrors just in case.
+I was able to find an old blog-post where I announced it: http://randomfoo.net/blog/id/1911 - In that 
+post you can see me trying to avoid getting my server /.'d.  Of course, it did end up getting linked to
+my server (although the submitter was kind enough to include a mirror link at least)
+http://news.slashdot.org/story/02/08/13/2150251/lessig--oscon (for those curious, my server held up pretty
+well, even serving out a lot of media files, although it did max out its 10Mbps link for a while).
 
 An ancillary anecode, this was actually also the only time I ended up exchanging emails with RMS. He 
 complained that I should only have been using Ogg Vorbis not MP3, and that I shouldn't have been using Flash 
