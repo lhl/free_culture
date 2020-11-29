@@ -4,6 +4,8 @@ free_culture
 Larry Lessig's 2002 O'Reilly Open Source Conference Keynote on Copyright and Free Culture
 Originally presented on July 24, 2002 in San Diego, CA
 
+The canonical URL for this site is: https://randomfoo.net/oscon/2002/lessig/
+
 
 Personal Anecdote
 -----------------
@@ -31,7 +33,7 @@ well](http://randomfoo.net/blog/id/1929), even serving out a lot of media files,
 
 An ancillary anecode, this was actually also the only time I ended up exchanging emails with RMS. He 
 complained that I should only have been using Ogg Vorbis not MP3, and that I shouldn't have been using Flash 
-(I believe he proposed SMIL as an alternative).  I told him it was all CC licensed andhe was free to do the 
+(I believe he proposed SMIL as an alternative).  I told him it was all CC licensed and he was free to do the 
 conversions and good luck reaching the non-existant audience (or converting w/ non-existant SMIL tools).  
 He never took me up on that offer, although someone did eventually contribute an Ogg transcode and an
 Open Office version.
